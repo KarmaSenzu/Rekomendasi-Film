@@ -1,5 +1,6 @@
-streamlit
-pandas
-numpy
-scikit-learn
-SpeechRecognition
+   streamlit
+   pandas
+   numpy
+   scikit-learn
+   SpeechRecognition
+   pyaudio
